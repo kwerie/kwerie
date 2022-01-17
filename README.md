@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kwerie
 - 👀 I’m interested in all kinds of programming languages.
-- 🌱 I’m currently learning how to effectively use linux.
 - 📫 How to reach me: send me a DM on Discord (kwerie#0069).
 
 <!---
