@@ -10,18 +10,18 @@ I'm an eager to learn, graduated & self taught software developer based in The N
 You can also see more [here](https://kwerie.dev/).
 
 ## Current setup
-Home PC:
-- Dual booted with [Arch Linux](https://archlinux.org/) and Windows.
+- OS: [Arch Linux](https://archlinux.org/) and Windows.
+- Code editors: 
+- [NeoVim](https://neovim.io/)
+- [IntelliJ/JetBrains](https://www.jetbrains.com/): \
+  All of my editors use the `VSCode Dark Modern` theme and [guber-darker](https://github.com/kwerie/gruber-darker-phpstorm) color scheme.
+  - Rider
+  - PHPStorm
+  - WebStorm
 - Arch setup:
   - WM: [dwm](https://github.com/kwerie/dwm-setup)
   - Terminal Emulator: [st](https://github.com/kwerie/st-setup)
   - Application launcher: [dmenu](https://github.com/kwerie/dmenu-setup)
-  - Code editors: 
-    - [NeoVim](https://neovim.io/)
-    - [IntelliJ/JetBrains](https://www.jetbrains.com/) editors (all using IdeaVim):
-      - Rider
-      - PHPStorm
-      - WebStorm
 
 ## 🎓 About Me
 
