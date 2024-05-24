@@ -1,7 +1,3 @@
-<!---
-kwerie/kwerie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋 I'm @kwerie</h1>
 
 # 💫 About Me:
@@ -9,9 +5,23 @@ I'm an eager to learn, graduated & self taught software developer based in The N
 
 ## 🚀 What I'm Up To
 
-- 💻 A Discord bot including an admin panel including real-time updates with a ~~Symfony back-end~~ C# Backend, Angular front-end & bot written in Discord.~~JS~~NET.
+- 💻 A Discord bot including an admin panel including real-time updates with a ~~Symfony back-end~~ .NET Backend, Angular front-end & bot written in Discord.~~JS~~NET.
 
-Check out my [portfolio!](https://kwerie.dev/)
+You can also see more [here](https://kwerie.dev/).
+
+## Current setup
+Home PC:
+- Dual booted with [Arch Linux](https://archlinux.org/) and Windows.
+- Arch setup:
+  - WM: [dwm](https://github.com/kwerie/dwm-setup)
+  - Terminal Emulator: [st](https://github.com/kwerie/st-setup)
+  - Application launcher: [dmenu](https://github.com/kwerie/dmenu-setup)
+  - Code editors: 
+    - [NeoVim](https://neovim.io/)
+    - [IntelliJ/JetBrains](https://www.jetbrains.com/) editors (all using IdeaVim):
+      - Rider
+      - PHPStorm
+      - WebStorm
 
 ## 🎓 About Me
 
