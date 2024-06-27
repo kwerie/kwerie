@@ -1,5 +1,5 @@
 # Hello there.. 
-![hello there](https://i.gifer.com/72uG.gif)
+![hello there](./obiwan.gif)
 
 More info [here](https://kwerie.dev/).
 
